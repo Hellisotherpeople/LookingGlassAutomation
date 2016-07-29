@@ -1,0 +1,364 @@
+edu_as59,59,rx-cssc-b380-1-core,?_1,?
+edu_as59,59,rx-animal-226-2-core,?_2,?
+edu_as59,59,r-wa222-12-1-radial,?_3,?
+edu_as59,59,r-wa222-12-2-radial,?_4,?
+edu_as59,59,r-csscplat-b380-3-core,?_5,?
+edu_as59,59,s-cssc-b380-3-core,?_6,?
+net_clouvider,1005,AS62240 LG,London_UK?,London UK?
+edu_netman,73,icar-chcg1-1,?_1,?
+edu_netman,73,icar-ptld1-1,Portland_OR_US,Portland OR US
+edu_netman,73,icar-spkn1-1,Spokane_WA_US,Spokane WA US
+edu_netman,73,icar-sttl1-1,Seattle_WA_US_1,Seattle WA US
+edu_netman,73,icar-sttl1-2,Seattle_WA_US_2,Seattle WA US
+edu_netman,73,icar-sttl2-1,Seattle_WA_US_3,Seattle WA US
+de_dfn,680,680 Stuttgart: XR-STU1,Stuttgart_GR,Stuttgart GR
+br_unesp,1251,,Sao_Paul_BR,Sao Paul BR 
+de_han,1275,,Hannover_GR,Hannover GR
+ca_ebox,1403,,Montreal_CA,Montral CA
+se_sunet,1653,m1fre,Stolkholm_SE_1,Stolkholm SE
+se_sunet,1653,m1tug,Stolkholm_SE_2,Stolkholm SE
+se_sunet,1653,x1fre,Stolkholm_SE_3,Stolkholm SE
+se_sunet,1653,x3tug,Stolkholm_SE_4,Stolkholm SE
+se_sunet,1653,z1klx,Kalix_SE_1,Kalix SE
+se_sunet,1653,z4klx,Kalix_SE_2,Kalix SE
+se_sunet,1653,z5krn,Kiruna_SE_1,Kiruna SE
+se_sunet,1653,z6krn,Kiruna_SE_2,Kiruna SE
+se_sunet,1653,z3lla,Lulea_SE_1,Lulea SE
+se_sunet,1653,z1vby,Visby_SE_1,Visby SE 
+se_sunet,1653,z2vby,Visby_SE_2,Visby SE 
+se_sunet,1653,m1gbg,Goteborg_SE_1,Goteborg SE
+se_sunet,1653,z1sde,Skovde_SE_1,Skovde SE
+se_sunet,1653,z1bor,Boras_SE_1,Boras SE
+se_sunet,1653,z1mma,Malmo_SE,Malmo SE 
+hu_hbonemtr,1055,,Budapest_HU,Budapest HU
+net_esat,2110,,Dublin_IR,Dublin IR
+net_telenor,2119,ti9000b400,Amsterdam_NT,Amsterdam NT
+net_telenor,2119,ti6000b400,Copenhagen_DN,Copenhagen DN
+net_telenor,2119,ti9006b400,Frankfurt_GR,Frankfurt GR
+net_telenor,2119,ti3006b400,Gothenburg_SE,Gothenburg SE
+net_telenor,2119,ti9002b400,London_UK,London UK
+net_telenor,2119,ti3218b400,Malmoe_SE,Malmoe SE
+net_telenor,2119,ti0001b400,Oslo_NW,Oslo NW
+net_telenor,2119,ti0300b400,Oslo_NW,Oslo NW
+net_telenor,2119,ti3001b400,Stockholm_SE,Stockholm SE
+net_telenor,2119,ti3002b400,Stockholm_SE,Stockholm SE
+net_telenor,2119,ti3137b400,Sundsvall_SE,Sundsvall SE
+ie_inex,7018,AT&amp;T (AS 7018),?,?
+ie_inex,3549,Global Crossing (AS 3549),?,?
+ie_inex,6447,Oregon Exchange (AS 6447),?,?
+ie_inex,5388,Energis (AS 5388),?,?
+ie_inex,8220,Colt (AS 8220),?,?
+ie_inex,3561,Exodus Communications (AS 3561),?,?
+ie_inex,3257,Tiscali (AS 3257),?,?
+ie_inex,852,TELUS Ontario (AS 852),?,?
+ie_inex,2128,Group Telecom,?,?
+ie_inex,5511,"Opentransit (AS 5511)""",?,?
+net_as2518,2518,Tokyo,Tokyo_JP,Tokyo JP
+net_as2518,2518,Hong Kong ,Hong Kong_HK,Hong Kong HK
+net_as2518,2518,Singapore ,Singapore_SG,Singapore SG
+net_more,2572,kc-gw.mo.more.net,Kansas_City_MS_USA,Kansas City MS USA
+net_more,2572,sl-gw.mo.more.net,St_Louis_MS_USA,St Louis MS USA
+net_more,2572,co-core-01.mo.more.net,Columbia_MS_USA,Columbia MS USA
+net_more,2572,kc-core-01.mo.more.net,Kansas_City_MS_USA_1,Kansas City MS USA
+net_more,2572,sl-core-01.mo.more.net,St Louis_MS_USA_2,St Louis MS USA
+net_more,2572,sp-core-01.mo.more.net,Springfield_MS_USA_1,Springfield MS USA
+net_more,2572,co-asr-01.mo.more.net,Columbia_MS_USA_2,Columbia MS USA
+net_more,2572,kc-asr-01.mo.more.net,Kansas_City_MS_USA_2,Kansas City MS USA
+net_more,2572,sl-asr-01.mo.more.net,St Louis_MS_USA_3,St Louis MS USA
+net_more,2572,sp-asr-01.mo.more.net,Springfield_MS_USA_3,Springfield MS USA
+net_more,2572,ks-96.greatplains.net,Kansas_City_MS_USA_3,Kansas City MS USA
+sg_pacific,2706,,Singapore_SG,Singarpore SH
+br_gunabara,2715,,Rio De Janerio_BR,Rio De Janerio BR
+ru_telekom,2820,module-3.telekom.ru,Moscow_RU,Moscow RU
+ru_telekom,2820,m9-1.telekom.ru,Moscow_RU,Moscow RU
+cz_cesnet,2852,10,Praha_SK_1,Praha SK
+cz_cesnet,2852,20,Praha_SK_2,Praha SK
+cz_cesnet,2852,30,Praha_SK_3,Praha SK
+cz_cesnet,2852,50,Brno_CR_1,Brno CR
+cz_cesnet,2852,80,Hradec Kralove_CR_1,Hradec Kralove CR 
+cz_cesnet,2852,100,Olomouc_CR,Olomouc CR 
+net_uwsys,3128,r-appleton-hub,?_WA,? WA
+net_uwsys,3128,r-beaverdam-hub,?_WA,? WA
+net_uwsys,3128,r-cvtc-hub,?_WA,? WA
+net_uwsys,3128,r-fonddulacci-hu,?_WA,? WA
+net_uwsys,3128,r-greenwood-hub,?_WA,? WA
+net_uwsys,3128,r-marion-hub,?_WA,? WA
+net_uwsys,3128,r-milwaukeeci-hu,?_WA,? WA
+net_uwsys,3128,r-mx104-lab-ac,?_WA,? WA
+net_uwsys,3128,r-mx104-lab-ac-2,?_WA,? WA
+net_uwsys,3128,r-mx104-lab-dc,?_WA,? WA
+net_uwsys,3128,r-mx2010-lab,?_WA,? WA
+net_uwsys,3128,r-networks222-hu,?_WA,? WA
+net_uwsys,3128,r-spd2-hub,?_WA,? WA
+net_uwsys,3128,r-uwcbaraboosauk,?_WA,? WA
+net_uwsys,3128,r-uwcbarronco-hu,?_WA,? WA
+net_uwsys,3128,r-uwcfonddulac,?_WA,? WA
+net_uwsys,3128,r-uwcfoxvalley-h,?_WA,? WA
+net_uwsys,3128,r-uwcmanitowoc,?_WA,? WA
+net_uwsys,3128,r-uwcmarathonco-,?_WA,? WA
+net_uwsys,3128,r-uwcmarinette,?_WA,? WA
+net_uwsys,3128,r-uwcmarshfieldw,?_WA,? WA
+net_uwsys,3128,r-uwcollegesexte,?_WA,? WA
+net_uwsys,3128,r-uwconline,?_WA,? WA
+net_uwsys,3128,r-uwcrichland,?_WA,? WA
+net_uwsys,3128,r-uwcrockco,?_WA,? WA
+net_uwsys,3128,r-uwcsheboygan,?_WA,? WA
+net_uwsys,3128,r-uwcwashingtonc,?_WA,? WA
+net_uwsys,3128,r-uwcwaukesha,?_WA,? WA
+net_uwsys,3128,r-uweauclaire-hu,?_WA,? WA
+net_uwsys,3128,r-uwgreenbay-hub,?_WA,? WA
+net_uwsys,3128,r-uwgreenbay-hub,?_WA,? WA
+net_uwsys,3128,r-uwlacrosse-hub,?_WA,? WA
+net_uwsys,3128,r-uwlacrosse-hub,?_WA,? WA
+net_uwsys,3128,r-uwmadison-432e,?_WA,? WA
+net_uwsys,3128,r-uwmadison-hub,?_WA,? WA
+net_uwsys,3128,r-uwmadison-hub-,?_WA,? WA
+net_uwsys,3128,r-uwmilwaukee-hu,?_WA,? WA
+net_uwsys,3128,r-uwmilwaukee-hu,?_WA,? WA
+net_uwsys,3128,r-uwoshkosh-hub,?_WA,? WA
+net_uwsys,3128,r-uwoshkosh-hub-,?_WA,? WA
+net_uwsys,3128,r-uwparkside-hub,?_WA,? WA
+net_uwsys,3128,r-uwparkside-hub,?_WA,? WA
+net_uwsys,3128,r-uwplatteville-,?_WA,? WA
+net_uwsys,3128,r-uwplatteville-,?_WA,? WA
+net_uwsys,3128,r-uwriverfalls-h,?_WA,? WA
+net_uwsys,3128,r-uwriverfalls-h,?_WA,? WA
+net_uwsys,3128,r-uwstevenspoint,?_WA,? WA
+net_uwsys,3128,r-uwstevenspoint,?_WA,? WA
+net_uwsys,3128,r-uwstout-hub,?_WA,? WA
+net_uwsys,3128,r-uwstout-hub-2,?_WA,? WA
+net_uwsys,3128,r-uwsuperior-hub,?_WA,? WA
+net_uwsys,3128,r-uwsuperior-hub,?_WA,? WA
+net_uwsys,3128,r-uwwhitewater-h,?_WA,? WA
+net_uwsys,3128,r-uwwhitewater-h,?_WA,? WA
+net_uwsys,3128,r-watertown-hub,?_WA,? WA
+net_uwsys,3128,r-wslh-bars,?_WA,? WA
+net_uwsys,3128,s-cvtc-hub,?_WA,? WA
+net_uwsys,3128,s-lab,?_WA,? WA
+net_uwsys,3128,s-lab-2,?_WA,? WA
+net_uwsys,3128,s-lab-3,?_WA,? WA
+net_uwsys,3128,s-lab-4,?_WA,? WA
+net_uwsys,3128,s-lab-5,?_WA,? WA
+net_uwsys,3128,s-milwaukee,?_WA,? WA
+net_uwsys,3128,s-networks2,?_WA,? WA
+net_uwsys,3128,s-uwmadison,?_WA,? WA
+net_uwsys,3128,t-appleton-hub,?_WA,? WA
+net_uwsys,3128,t-beaverdam-hub,?_WA,? WA
+net_uwsys,3128,t-cvtc-hub,?_WA,? WA
+net_uwsys,3128,t-fonddulacci-hub,?_WA,? WA
+net_uwsys,3128,t-greenwood-hub,?_WA,? WA
+net_uwsys,3128,t-lab-1,?_WA,? WA
+net_uwsys,3128,t-lab-2,?_WA,? WA
+net_uwsys,3128,t-lab-4g,?_WA,? WA
+net_uwsys,3128,t-marion-hub,?_WA,? WA
+net_uwsys,3128,t-milwaukeeci-hub,?_WA,? WA
+net_uwsys,3128,t-networks222-hub,?_WA,? WA
+net_uwsys,3128,t-spd2-hub,?_WA,? WA
+net_uwsys,3128,t-uwcbaraboosaukco,?_WA,? WA
+net_uwsys,3128,t-uwcbarronco-hub,?_WA,? WA
+net_uwsys,3128,t-uwcfonddulac,?_WA,? WA
+net_uwsys,3128,t-uwcfoxvalley-hub,?_WA,? WA
+net_uwsys,3128,t-uwcmanitowoc,?_WA,? WA
+net_uwsys,3128,t-uwcmarathonco-hu,?_WA,? WA
+net_uwsys,3128,t-uwcmarinette,?_WA,? WA
+net_uwsys,3128,t-uwcmarshfieldwoo,?_WA,? WA
+net_uwsys,3128,t-uwconline,?_WA,? WA
+net_uwsys,3128,t-uwcrichland,?_WA,? WA
+net_uwsys,3128,t-uwcrockco,?_WA,? WA
+net_uwsys,3128,t-uwcsheboygan,?_WA,? WA
+net_uwsys,3128,t-uwcwashingtonco,?_WA,? WA
+net_uwsys,3128,t-uwcwaukesha,?_WA,? WA
+net_uwsys,3128,t-uweauclaire-hub,?_WA,? WA
+net_uwsys,3128,t-uwgreenbay-hub,?_WA,? WA
+net_uwsys,3128,t-uwgreenbay-hub-2,?_WA,? WA
+net_uwsys,3128,t-uwlacrosse-hub,?_WA,? WA
+net_uwsys,3128,t-uwlacrosse-hub-2,?_WA,? WA
+net_uwsys,3128,t-uwmadison-432ecm,?_WA,? WA
+net_uwsys,3128,t-uwmadison-hub,?_WA,? WA
+net_uwsys,3128,t-uwmilwaukee-hub,?_WA,? WA
+net_uwsys,3128,t-uwoshkosh-hub,?_WA,? WA
+net_uwsys,3128,t-uwoshkosh-hub-2,?_WA,? WA
+net_uwsys,3128,t-uwparkside-hub,?_WA,? WA
+net_uwsys,3128,t-uwplatteville-hu,?_WA,? WA
+net_uwsys,3128,t-uwplatteville-hu,?_WA,? WA
+net_uwsys,3128,t-uwriverfalls-hub,?_WA,? WA
+net_uwsys,3128,t-uwriverfalls-hub,?_WA,? WA
+net_uwsys,3128,t-uwstevenspoint-h,?_WA,? WA
+net_uwsys,3128,t-uwstevenspoint-h,?_WA,? WA
+net_uwsys,3128,t-uwstout-hub,?_WA,? WA
+net_uwsys,3128,t-uwstout-hub-2,?_WA,? WA
+net_uwsys,3128,t-uwsuperior-hub,?_WA,? WA
+net_uwsys,3128,t-uwwhitewater-hub,?_WA,? WA
+net_uwsys,3128,t-uwwhitewater-hub,?_WA,? WA
+net_uwsys,3128,t-watertown-hub,?_WA,? WA
+ru_runnet,3267,msk-m9-3-gw.runnet.ru,?_RU,? RU
+ru_runnet,3267,spb-b57-1-gw.runnet.ru,?_RU,? RU
+ru_runnet,3267,nsk-ttk-1-gw.runnet.ru,?_RU,? RU
+ru_runnet,3267,nsk-ttk-2-gw.runnet.ru,?_RU,? RU
+ru_runnet,3267,ams-nikhef-1-gw.runnet.ru,?_RU,? RU
+ru_runnet,3267,sth-tug-1-gw.runnet.ru,?_RU,? RU
+ru_runnet,3267,sth-tele-1-gw.runnet.ru,?_RU,? RU
+dk_telia,3308,Copenhagen Ejby,Copenhagen_DN,Copenhagen DN
+dk_telia,3308,Copenhagen Ørestaden,Copenhagen_DN,Copenhagen DN
+gr_ntua,3328,,Athens_GR ,Athens GR 
+ar_riu,4270,Router ARIU,Buenos Aires_AR,Buenos Aires AR 
+id_idola,4800,"ID, Jakarta - Menara Cyber - IIX",Jakarta_ID_1,Jakarta ID 
+id_idola,4800,"ID, Jakarta - IDS, Menara KPPTI",Jakarta_ID_2,Jakarta ID 
+id_idola,4800,"ID, Batam - GPN, Batam Gateway",Batam_ID,Batam ID 
+id_idola,4800,"SG, Singapore - EQN, Equinix Singapore",Singapore_SG,Singapore SG 
+com_hkunicom,4837,"HKG-CW,HK1",Hong Kong_HK_1,Hong Kong HK
+com_hkunicom,4837,"HKG-ST,HK2",Hong Kong_HK_2,Hong Kong HK
+com_hkunicom,4837,"HKG-TKO,HK3",Hong Kong_HK_3,Hong Kong HK
+com_hkunicom,4837,"TW-TPE, TW1",Taiwan_TW,Taiwan TW
+com_hkunicom,4837,"SG-SG, SG1",Singapore_SG,Singapore SG
+com_hkunicom,4837,"EU-LDN, EU1",London_UK,London UK
+com_hkunicom,4837,"US-LA1, US1",Los Angeles_CA_USA_1,Los Angeles CA USA
+com_hkunicom,4837,"US-LA2, US2",Los Angeles_CA_USA_2,Los Angeles CA USA 
+com_hkunicom,4837,"US-SJ, US3",San Jose_CA_USA,San Jose CA USA 
+com_hkunicom,4837,"US-NY, US4",New York_NY_USA,New York NY USA 
+com_hkunicom,4837,"Toronto, CA1",Toronto_CA,Toronto CA 
+com_hkunicom,4837,"HKG, VIP1",Hong Kong_HK_4,Hong Kong HK
+net_onvoy,5006,,Minnisota_USA?,Minnisota USA? 
+net_taide,5377,,Oslo_NW,Oslo NW
+gr_grnet,5377,,Athens_GR ,Athens GR 
+net_valencia ,5505,,Valencia_SP,Valencia SP
+com_teksavvy,5645,bdr04.tor.man.teksavvy.com:juniper,?,?
+com_teksavvy,5645,bdr01.mtl.man.teksavvy.com:juniper,?,?
+com_teksavvy,5645,bdr01.nyc.man.teksavvy.com:juniper,?,?
+com_teksavvy,5645,bdr01.tor2.man.teksavvy.com:juniper,?,?
+net_rcn,6079,Allentown PA:cisco-xr,Allentown_PA_USA,Allentown PA USA
+net_rcn,6079,Chicago IL:cisco-xr,Chicago_IL_USA,Chicago IL USA
+net_rcn,6079,Washington DC:cisco-xr,Washington DC_IL_USA,Washington DC IL USA 
+net_rcn,6079,New York NY:cisco-xr,New York_NY_USA,New York NY USA 
+net_rcn,6079,Philadelphia PA:cisco-xr,Philadelphia_PA_USA,Philadelphia PA USA
+net_rcn,6079,Boston MA:cisco-xr,Boston_MA_USA,Boston MA USA 
+net_activeby,6697,http://eu104.activeby.net/lg/,Amsterdam_NT,Amsterdam NT
+pl_ipartners,6714,,Warsaw_PL ,Warsaw PL 
+ir_iranet,6736,IPM/IRANET (AS6736),Tehran_IR,Tehran IR 
+ua_eurotele,6768,Kyiv – Border,Kyiv_RU,Kyiv RU
+ua_eurotele,6768,Kharkiv – Border,Kharkiv_RU,Kharkiv RU
+ua_eurotele,6768,Donetsk – Border,Donetsk_RU,Donetsk RU
+ua_eurotele,6768,Moscow – Border,Moscow_RU,Moscow RU
+net_zenon,6903,,Moscow_RU,Moscow RU
+net_colt,8220,Amsterdam,Amsterdam_NT,Amsterdam NT
+net_colt,8220,Berlin,Berlin_GR,Berlin GR
+net_colt,8220,Brussels,Brussels_BG,Brussels BG
+net_colt,8220,Copenhagen,Copenhagen_DN,Copenhagen DN
+net_colt,8220,Dublin,Dublin_IR,Dublin IR
+net_colt,8220,Frankfurt,Frankfurt_GR,Frankfurt GR
+net_colt,8220,Hamburg,Hamburg_GR,Hamburg GR
+net_colt,8220,Lisbon,Lisbon_PR,Lisbon PR 
+net_colt,8220,London,London_UK,London UK
+net_colt,8220,Madrid,Madrid_SP,Madrid SP
+net_colt,8220,Milan,Milan_IT,Milian IT 
+net_colt,8220,NewYork,New York_NY_USA,New York NY USA 
+net_colt,8220,Paris,Paris_FR,Paris FR 
+net_colt,8220,Stockholm,Stolkholm_SE,Stolkholm SE
+net_colt,8220,Vienna,Vienna_AU,Vienna AU 
+net_colt,8220,Zurich,Zurich_SW,Zurich SW 
+pl_nask,8308,Router KOM,?,?
+pl_nask,8308,Router EDU,?,?
+ru_rtcomm,8342,MSK M9 (public.rt-comm.ru),Moscow_RU,Moscow RU
+rs_telekom,8400,Belgrade TKC,Belgrade_SB,Belgrade SB
+rs_telekom,8400,New Belgrade,Belgrade_SB,Belgrade SB
+rs_telekom,8400,PoP Vienna,Vienna_AU,Vienna AU 
+rs_telekom,8400,PoP Budapest,Budapest_HU,Budapest HU
+rs_telekom,8400,PoP Frankfurt,Frankfurt_GR,Frankfurt GR
+rs_telekom,8400,PoP Sofia,Sofia_BG,Sofia BG
+net_atom86,8455,atroprt2spb,?,?
+net_atom86,8455,atroprt2nkf,?,?
+net_macomnet,8470,,Moscow_RU,Moscow RU
+gr_protagoras,8581,,Ioannina_GR,Ioannina GR
+ru_cnt,8615,RR-1,?_RU,? RU
+ru_cnt,8615,RR-1,?_RU_2,? RU
+ru_naukanet,8641,moscow-a,Moscow_RU_1,Moscow RU
+ru_naukanet,8641,moscow-s,Moscow_RU_2,Moscow RU
+ru_naukanet,8641,moscow-n,Moscow_RU_3,Moscow RU
+ru_naukanet,8641,frankfurt-n,Frankfurt_GR,Frankfurt GR
+ru_naukanet_2,8641,,?,?
+net_cprm,8657,,Lisbon_PR,Lisbon PR
+net_m-online,8767,MUC,?,?
+net_m-online,8767,CERFnet,?,?
+net_m-online,8767,Global Crossing,?,?
+net_m-online,8767,Tiscali (AS 3257),?,?
+net_m-online,8767,TELUS Ontario (AS 852),Ontario_CA,Ontario CA 
+de_versatel,8881,dor002ip901.versatel.de,?,?
+com_interroute,8928,ams-koo-score-1,Amsterdam_NT_1,Amsterdam NT
+com_interroute,8928,ams-koo-score-2,Amsterdam_NT_2,Amsterdam NT
+com_interroute,8928,bbu-001-score-1,Bucharest_RO_1,Bucharest RO
+com_interroute,8928,bcn-002-score-1,Barcelona_SP_1,Barcelona SP
+com_interroute,8928,bcn-002-score-2,Barcelona_SP_2,Barcelona SP
+com_interroute,8928,ber-007-access-1,Berlin_GR_1,Berlin GR
+com_interroute,8928,ber-alb-score-1,Berlin_GR_2,Berlin GR
+com_interroute,8928,ber-alb-score-2,Berlin_GR_3,Berlin GR
+com_interroute,8928,bru-leu-score-1,Brussels_BG_1,Brussels BG
+com_interroute,8928,bru-leu-score-2,Brussels_BG_2,Brussels BG
+com_interroute,8928,bts-001-score-1,Bratislava_SL_1,Bratislava SL
+com_interroute,8928,bts-001-score-2,Bratislava_SL_2,Bratislava SL
+com_interroute,8928,bud-001-score-1,Budapest_HU_1,Budapest HU
+com_interroute,8928,bud-001-score-2,Budapest_HU_2,Budapest HU
+com_interroute,8928,cph-002-score-1,Copenhagen_DN_1,Copenhagen DN
+com_interroute,8928,cph-002-score-2,Copehagen_DN_2,Copehagen DN
+com_interroute,8928,dub-001-access-1,Dublin_IR_1,Dublin IR
+com_interroute,8928,dus-001-access-1,Dusseldorf_GR_1,Dusseldorf GR
+com_interroute,8928,dxb-003-access-1,Dubai_UAE,Dubai UAE
+com_interroute,8928,flr-gio-access-1,Florence_IT,Florence IT
+com_interroute,8928,fra-006-access-1,Frankfurt_GR_1,Frankfurt GR
+com_interroute,8928,fra-006-access-2,Frankfurt_GR_2,Frankfurt GR
+com_interroute,8928,fra-006-score-1,Frankfurt_GR_3,Frankfurt GR
+com_interroute,8928,fra-006-score-2,Frankfurt_GR_4,Frankfurt GR
+com_interroute,8928,gva-004-score-1,Geneva_SW_1,Geneva SW
+com_interroute,8928,gva-004-score-2,Geneva_SW_2,Geneva SW
+com_interroute,8928,ham-001-score-1,Hamburg_GR_1,Hamburg GR
+com_interroute,8928,hel-002-score-1,Helsinki_FN_1,Helsinki FN
+com_interroute,8928,hon-001-access-1,Hong Kong_HK_1,Hong Kong HK
+com_interroute,8928,hon-002-score-1,Hong Kong_HK_2,Hong Kong HK
+com_interroute,8928,hon-002-score-2,Hong Kong_HK_3,Hong Kong HK
+com_interroute,8928,ist-001-score-1,Istanbul_TR_1,Istanbul TR
+com_interroute,8928,ist-002-score-1,Istanbul_TR_2,Istanbul TR
+com_interroute,8928,lax-002-score-1,Los Angeles_CA_USA_1,Los Angeles CA USA
+com_interroute,8928,lax-002-score-2,Los Angeles_CA_USA_2,Los Angeles CA USA
+com_interroute,8928,lon-001-score-1,London_UK_1,London UK
+com_interroute,8928,lon-001-score-2,London_UK_2,London UK
+com_interroute,8928,lon-004-score-1,London_UK_3,London UK
+com_interroute,8928,mad-001-score-1,Madrid_SP_1,Madrid SP
+com_interroute,8928,mad-001-score-2,Madrid_SP_2,Madrid SP
+com_interroute,8928,mil-cal-access-1,Milian_IT_1,Milian IT
+com_interroute,8928,mil-cal-score-1,Milian_IT_2,Milian IT
+com_interroute,8928,mil-cal-score-2,Milian_IT_3,Milian IT
+com_interroute,8928,mrs-001-score-1,Marseille_FR_1,Marseille FR
+com_interroute,8928,msc-002-score-1,Moscow_RU_1,Moscow RU
+com_interroute,8928,msc-003-score-1,Moscow_RU_2,Moscow RU
+com_interroute,8928,muc-rob-access-1,Munich_GR_1,Munich GR
+com_interroute,8928,muc-rob-access-2,Munich_GR_2,Munich GR
+com_interroute,8928,nyc-002-access-1,New York_NY_USA_1,New York NY USA
+com_interroute,8928,nyc-002-score-1,New York_NY_USA_2,New York NY USA
+com_interroute,8928,nyc-002-score-2,New York_NY_USA_3,New York NY USA
+com_interroute,8928,par-gar-score-1,Paris_FR_1,Paris FR
+com_interroute,8928,par-gar-score-2,Paris_FR_2,Paris FR
+com_interroute,8928,prg-001-score-1,Prague_CR_1,Prague CR
+com_interroute,8928,prg-001-score-2,Prague_CR_2,Prague CR
+com_interroute,8928,rtm-vla-access-1,Rotterdam_NT,Rotterdam 
+com_interroute,8928,sin-001-score-1,Singapore_SG_1,Singapore SG
+com_interroute,8928,sin-001-score-2,Singapore_SG_2,Singapore SG
+com_interroute,8928,sof-003-score-1,Sofia_BG_1,Sofia BG
+com_interroute,8928,sof-003-score-2,Sofia_BG_2,Sofia BG
+com_interroute,8928,sto-002-score-1,Stockholm_SE_1,Stockholm SE
+com_interroute,8928,sto-010-score-1,Stockholm_SE_2,Stockholm SE
+com_interroute,8928,vce-val-access-1,Venice_IT_1,Venice IT
+com_interroute,8928,vie-per-score-1,Vienna_AU_1,Vienna AU
+com_interroute,8928,vie-per-score-2,Vienna_AU_2,Vienna AU
+com_interroute,8928,waw-002-access-1001,Warsaw_PL_1,Warsaw PL
+com_interroute,8928,waw-002-score-2,Warsaw_PL_2,Warsaw PL
+com_interroute,8928,zrh-jos-score-1,Zurich_SW_1,Zurich SW
+com_interroute,8928,zrh-jos-score-2,Zurich_SW_2 ,Zurich SW
+net_edpnet,9031,Brussel (router02.bruix.be.edpnet.net),Brussels_BG,Brussels BG
+net_edpnet,9031,Frankfurt (router02.ffanc.de.edpnet.net),Frankfurt_GR,Frankfurt GR
+net_edpnet,9031,Saint-Petersburg (router01.spbbr57.ru.edpnet.net),Saint-Petersburg_RU,Saint-Petersburg RU
+net_edpnet,9031,Moscow (router01.mskm9.ru.edpnet.net),Moscow_RU,Moscow RU
+net_edpnet,9031,Amsterdam (router03.adamtel.nl.edpnet.net),Amsterdam_NT,Amsterdam NT
+net_edpnet,9031,Stockholm (router02.adamtel.nl.edpnet.net),Stockholm_SE,Stockholm SE
+net_edpnet,9031,London (router01.ldntel.uk.edpnet.net),London_UK,London UK
+dk_webpartner,9157,,?,?
+jp_as9370,9370,,Osaka_JP,Osaka JP
+jp_as9371,9371,,Osaka_JP,Osaka JP
