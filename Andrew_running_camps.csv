@@ -1,255 +1,255 @@
-net_snlink,702,none,???,???,8.8.8.8,3356
-com_cognetco,174,vie01,AT_Vienna     , Vienna     AT,8.8.8.8,3356
-com_cognetco,174,bru01,BE_Brussels   , Brussels   BE,8.8.8.8,3356
-com_cognetco,174,sof02,BG_Sofia, Sofia BG,8.8.8.8,3356
-com_cognetco,174,ymq01,CA_Montreal, Montreal CA,8.8.8.8,3356
-com_cognetco,174,yyz01,CA_Toronto, Toronto CA,8.8.8.8,3356
-com_cognetco,174,zrh01,CH_Zurich, Zurich CH,8.8.8.8,3356
-com_cognetco,174,ber01,DE_Berlin, Berlin  DE,8.8.8.8,3356
-com_cognetco,174,dus01,DE_Dusseldorf, Dusseldorf  DE,8.8.8.8,3356
-com_cognetco,174,fra03,DE_Frankfurt, Frankfurt  DE,8.8.8.8,3356
-com_cognetco,174,ham01,DE_Hamburg, Hamburg  DE,8.8.8.8,3356
-com_cognetco,174,muc03,DE_Munich, Munich  DE,8.8.8.8,3356
-com_cognetco,174,nue01,DE_Nuremberg, Nuremberg  DE,8.8.8.8,3356
-com_cognetco,174,cph01,DK_Copenhagen, Copenhagen  DK,8.8.8.8,3356
-com_cognetco,174,tll01,EE_Tallinn, Tallinn  EE,8.8.8.8,3356
-com_cognetco,174,bcn01,ES_Barcelona, Barcelona  ES,8.8.8.8,3356
-com_cognetco,174,mad05,ES_Madrid, Madrid  ES,8.8.8.8,3356
-com_cognetco,174,vlc02,ES_Valencia, Valencia  ES,8.8.8.8,3356
-com_cognetco,174,bod01,FR_Bordeaux, Bordeaux  FR,8.8.8.8,3356
-com_cognetco,174,mrs01,FR_Marseille, Marseille  FR,8.8.8.8,3356
-com_cognetco,174,par01,FR_Paris, Paris  FR,8.8.8.8,3356
-com_cognetco,174,lon13,GB_London, London  GB,8.8.8.8,3356
-com_cognetco,174,lpl01,GB_Southport, Southport  GB,8.8.8.8,3356
-com_cognetco,174,ath01,GR_Athens, Athens  GR,8.8.8.8,3356
-com_cognetco,174,bud01,HU_Budapest, Budapest  HU,8.8.8.8,3356
-com_cognetco,174,dub01,IE_Dublin, Dublin  IE,8.8.8.8,3356
-com_cognetco,174,mil01,IT_Milan, Milan  IT,8.8.8.8,3356
-com_cognetco,174,rom01,IT_Rome, Rome  IT,8.8.8.8,3356
-com_cognetco,174,tyo01,JP_Tokyo, Tokyo  JP,8.8.8.8,3356
-com_cognetco,174,mex01,MX_Mexico City, Mexico City  MX,8.8.8.8,3356
-com_cognetco,174,ams04,NL_Amsterdam, Amsterdam  NL,8.8.8.8,3356
-com_cognetco,174,osl01,NO_Oslo, Oslo  NO,8.8.8.8,3356
-com_cognetco,174,waw01,PL_Warsaw, Warsaw  PL,8.8.8.8,3356
-com_cognetco,174,lis01,PT_Lisbon, Lisbon  PT,8.8.8.8,3356
-com_cognetco,174,buh01,RO_Bucharest, Bucharest  RO,8.8.8.8,3356
-com_cognetco,174,sto03,SE_Stockholm, Stockholm  SE,8.8.8.8,3356
-com_cognetco,174,bts01,SK_Bratislava, Bratislava  SK,8.8.8.8,3356
-com_cognetco,174,hrk01,UA_Kharkiv, Kharkiv  UA,8.8.8.8,3356
-com_cognetco,174,atl01,US_Atlanta, Atlanta  US,8.8.8.8,3356
-com_cognetco,174,bos01,US_Boston, Boston  US,8.8.8.8,3356
-com_cognetco,174,ord01,US_Chicago, Chicago  US,8.8.8.8,3356
-com_cognetco,174,dfw01,US_Dallas, Dallas  US,8.8.8.8,3356
-com_cognetco,174,den01,US_Denver, Denver  US,8.8.8.8,3356
-com_cognetco,174,iah01,US_Houston, Houston  US,8.8.8.8,3356
-com_cognetco,174,jax01,US_Jacksonville, Jacksonville  US,8.8.8.8,3356
-com_cognetco,174,mci01,US_Kansas City, Kansas City  US,8.8.8.8,3356
-com_cognetco,174,lax01,US_Los Angeles, Los Angeles  US,8.8.8.8,3356
-com_cognetco,174,mia01,US_Miami, Miami  US,8.8.8.8,3356
-com_cognetco,174,msp01,US_Minneapolis, Minneapolis  US,8.8.8.8,3356
-com_cognetco,174,jfk02,US_New York, New York  US,8.8.8.8,3356
-com_cognetco,174,mco01,US_Orlando, Orlando  US,8.8.8.8,3356
-com_cognetco,174,phl01,US_Philadelphia, Philadelphia  US,8.8.8.8,3356
-com_cognetco,174,smf01,US_Sacramento, Sacramento  US,8.8.8.8,3356
-com_cognetco,174,san01,US_San Diego, San Diego  US,8.8.8.8,3356
-com_cognetco,174,sfo01,US_San Francisco, San Francisco  US,8.8.8.8,3356
-com_cognetco,174,sjc01,US_San Jose, San Jose  US,8.8.8.8,3356
-com_cognetco,174,sea01,US_Seattle, Seattle  US,8.8.8.8,3356
-com_cognetco,174,tpa01,US_Tampa, Tampa  US,8.8.8.8,3356
-com_cognetco,174,dca01,US_Washington_DC,Washington DC   US,8.8.8.8,3356
-net_telia,1299,Hong Kong,Hong_Kong, Hong Kong,8.8.8.8,3356
-net_telia,1299,Singapore,Singapore, Singapore,8.8.8.8,3356
-net_telia,1299,Amsterdam,Amsterdam, Amsterdam,8.8.8.8,3356
-net_telia,1299,Barcelona,Barcelona, Barcelona,8.8.8.8,3356
-net_telia,1299,Berlin,Berlin, Berlin,8.8.8.8,3356
-net_telia,1299,Bratislava,Bratislava, Bratislava,8.8.8.8,3356
-net_telia,1299,Brussels,Brussels, Brussels,8.8.8.8,3356
-net_telia,1299,Bucharest,Bucharest, Bucharest,8.8.8.8,3356
-net_telia,1299,Budapest,Budapest, Budapest,8.8.8.8,3356
-net_telia,1299,Cologne,Cologne, Cologne,8.8.8.8,3356
-net_telia,1299,Copenhagen,Copenhagen, Copenhagen,8.8.8.8,3356
-net_telia,1299,Dublin,Dublin, Dublin,8.8.8.8,3356
-net_telia,1299,Dusseldorf,Dusseldorf, Dusseldorf,8.8.8.8,3356
-net_telia,1299,Frankfurt,Frankfurt, Frankfurt,8.8.8.8,3356
-net_telia,1299,Hamburg,Hamburg, Hamburg,8.8.8.8,3356
-net_telia,1299,Helsinki,Helsinki, Helsinki,8.8.8.8,3356
-net_telia,1299,Kiev,Kiev, Kiev,8.8.8.8,3356
-net_telia,1299,London,London, London,8.8.8.8,3356
-net_telia,1299,Madrid,Madrid, Madrid,8.8.8.8,3356
-net_telia,1299,Marseille,Marseille, Marseille,8.8.8.8,3356
-net_telia,1299,Milan,Milan, Milan,8.8.8.8,3356
-net_telia,1299,Moscow,Moscow, Moscow,8.8.8.8,3356
-net_telia,1299,Munich,Munich, Munich,8.8.8.8,3356
-net_telia,1299,Oslo,Oslo, Oslo,8.8.8.8,3356
-net_telia,1299,Paris,Paris, Paris,8.8.8.8,3356
-net_telia,1299,Poznan,Poznan, Poznan,8.8.8.8,3356
-net_telia,1299,Prague,Prague, Prague,8.8.8.8,3356
-net_telia,1299,Riga,Riga, Riga,8.8.8.8,3356
-net_telia,1299,Sofia,Sofia, Sofia,8.8.8.8,3356
-net_telia,1299,Stockholm,Stockholm, Stockholm,8.8.8.8,3356
-net_telia,1299,St.-Petersburg,St.-Petersburg, St.-Petersburg,8.8.8.8,3356
-net_telia,1299,Tallinn,Tallinn, Tallinn,8.8.8.8,3356
-net_telia,1299,Valencia,Valencia, Valencia,8.8.8.8,3356
-net_telia,1299,Vienna,Vienna, Vienna,8.8.8.8,3356
-net_telia,1299,Warsaw,Warsaw, Warsaw,8.8.8.8,3356
-net_telia,1299,Zurich,Zurich, Zurich,8.8.8.8,3356
-net_telia,1299,Ashburn,Ashburn, Ashburn,8.8.8.8,3356
-net_telia,1299,Atlanta,Atlanta, Atlanta,8.8.8.8,3356
-net_telia,1299,Austin,Austin, Austin,8.8.8.8,3356
-net_telia,1299,Boston,Boston, Boston,8.8.8.8,3356
-net_telia,1299,Buffalo,Buffalo, Buffalo,8.8.8.8,3356
-net_telia,1299,Charlotte,Charlotte, Charlotte,8.8.8.8,3356
-net_telia,1299,Chicago,Chicago, Chicago,8.8.8.8,3356
-net_telia,1299,Cleveland,Cleveland, Cleveland,8.8.8.8,3356
-net_telia,1299,Dallas,Dallas, Dallas,8.8.8.8,3356
-net_telia,1299,Denver,Denver, Denver,8.8.8.8,3356
-net_telia,1299,Detroit,Detroit, Detroit,8.8.8.8,3356
-net_telia,1299,Houston,Houston, Houston,8.8.8.8,3356
-net_telia,1299,Indianapolis,Indianapolis, Indianapolis,8.8.8.8,3356
-net_telia,1299,Jacksonville,Jacksonville, Jacksonville,8.8.8.8,3356
-net_telia,1299,Kansas City,Kansas_City, Kansas City,8.8.8.8,3356
-net_telia,1299,Los Angeles,Los_Angeles, Los Angeles,8.8.8.8,3356
-net_telia,1299,McAllen,McAllen, McAllen,8.8.8.8,3356
-net_telia,1299,Miami,Miami, Miami,8.8.8.8,3356
-net_telia,1299,Nashville,Nashville, Nashville,8.8.8.8,3356
-net_telia,1299,New York (111 8th Ave),New_York_(111_8th_Ave), New York (111 8th Ave),8.8.8.8,3356
-net_telia,1299,New York (165 Hasley),New_York_(165_Hasley), New York (165 Hasley),8.8.8.8,3356
-net_telia,1299,Omaha,Omaha, Omaha,8.8.8.8,3356
-net_telia,1299,Palo Alto,Palo_Alto, Palo Alto,8.8.8.8,3356
-net_telia,1299,Philadelphia,Philadelphia, Philadelphia,8.8.8.8,3356
-net_telia,1299,Phoenix,Phoenix, Phoenix,8.8.8.8,3356
-net_telia,1299,Reston,Reston, Reston,8.8.8.8,3356
-net_telia,1299,San Antonio,San_Antonio, San Antonio,8.8.8.8,3356
-net_telia,1299,St. Louis,St._Louis, St. Louis,8.8.8.8,3356
-net_telia,1299,Seattle,Seattle, Seattle,8.8.8.8,3356
-net_telia,1299,Toronto,Toronto, Toronto,8.8.8.8,3356
-net_telia,1299,Stockholm-3301,Stockholm-3301, Stockholm-3301,8.8.8.8,3356
-net_telia,1299,Malmo,Malmo, Malmo,8.8.8.8,3356
-net_telia,1299,GRX segment,GRX_segment, GRX segment,8.8.8.8,3356
-net_paetec,1785,Albany,Albany, Albany,8.8.8.8,3356
-net_paetec,1785,Alburquerque,Alburquerque, Alburquerque,8.8.8.8,3356
-net_paetec,1785,Andover,Andover, Andover,8.8.8.8,3356
-net_paetec,1785,Austin,Austin, Austin,8.8.8.8,3356
-net_paetec,1785,Anaheim,Anaheim, Anaheim,8.8.8.8,3356
-net_paetec,1785,Atlanta02,Atlanta02, Atlanta02,8.8.8.8,3356
-net_paetec,1785,Birmingham,Birmingham, Birmingham,8.8.8.8,3356
-net_paetec,1785,Boston,Boston, Boston,8.8.8.8,3356
-net_paetec,1785,Brentwood,Brentwood, Brentwood,8.8.8.8,3356
-net_paetec,1785,Champaign,Champaign, Champaign,8.8.8.8,3356
-net_paetec,1785,Charlotte,Charlotte, Charlotte,8.8.8.8,3356
-net_paetec,1785,Chattanooga,Chattanooga, Chattanooga,8.8.8.8,3356
-net_paetec,1785,Chicago01,Chicago01, Chicago01,8.8.8.8,3356
-net_paetec,1785,Chicago04,Chicago04, Chicago04,8.8.8.8,3356
-net_paetec,1785,Cleveland,Cleveland, Cleveland,8.8.8.8,3356
-net_paetec,1785,Colorado Springs,Colorado_Springs, Colorado Springs,8.8.8.8,3356
-net_paetec,1785,Columbia,Columbia, Columbia,8.8.8.8,3356
-net_paetec,1785,Dallas,Dallas, Dallas,8.8.8.8,3356
-net_paetec,1785,Denver,Denver, Denver,8.8.8.8,3356
-net_paetec,1785,Des Moines,Des_Moines, Des Moines,8.8.8.8,3356
-net_paetec,1785,Farmington Hills,Farmington_Hills, Farmington Hills,8.8.8.8,3356
-net_paetec,1785,Fishers,Fishers, Fishers,8.8.8.8,3356
-net_paetec,1785,Ft. Myers,Ft._Myers, Ft. Myers,8.8.8.8,3356
-net_paetec,1785,Greensboro,Greensboro, Greensboro,8.8.8.8,3356
-net_paetec,1785,Houston,Houston, Houston,8.8.8.8,3356
-net_paetec,1785,Jacksonville,Jacksonville, Jacksonville,8.8.8.8,3356
-net_paetec,1785,Kansas City,Kansas_City, Kansas City,8.8.8.8,3356
-net_paetec,1785,Knoxville,Knoxville, Knoxville,8.8.8.8,3356
-net_paetec,1785,Las Vegas,Las_Vegas, Las Vegas,8.8.8.8,3356
-net_paetec,1785,Los Angeles,Los_Angeles, Los Angeles,8.8.8.8,3356
-net_paetec,1785,Memphis,Memphis, Memphis,8.8.8.8,3356
-net_paetec,1785,Milwaukee,Milwaukee, Milwaukee,8.8.8.8,3356
-net_paetec,1785,Minneapolis,Minneapolis, Minneapolis,8.8.8.8,3356
-net_paetec,1785,Miami,Miami, Miami,8.8.8.8,3356
-net_paetec,1785,Mobile,Mobile, Mobile,8.8.8.8,3356
-net_paetec,1785,NYC02,NYC02, NYC02,8.8.8.8,3356
-net_paetec,1785,NYC03,NYC03, NYC03,8.8.8.8,3356
-net_paetec,1785,New Orleans,New_Orleans, New Orleans,8.8.8.8,3356
-net_paetec,1785,Newark01,Newark01, Newark01,8.8.8.8,3356
-net_paetec,1785,North Charleston,North_Charleston, North Charleston,8.8.8.8,3356
-net_paetec,1785,Oakland,Oakland, Oakland,8.8.8.8,3356
-net_paetec,1785,Orlando,Orlando, Orlando,8.8.8.8,3356
-net_paetec,1785,Palm Beach Gardens,Palm_Beach_Gardens, Palm Beach Gardens,8.8.8.8,3356
-net_paetec,1785,Philadelphia01,Philadelphia01, Philadelphia01,8.8.8.8,3356
-net_paetec,1785,Philadelphia02,Philadelphia02, Philadelphia02,8.8.8.8,3356
-net_paetec,1785,Phoenix,Phoenix, Phoenix,8.8.8.8,3356
-net_paetec,1785,Pittsburgh,Pittsburgh, Pittsburgh,8.8.8.8,3356
-net_paetec,1785,Portland,Portland, Portland,8.8.8.8,3356
-net_paetec,1785,Raleigh,Raleigh, Raleigh,8.8.8.8,3356
-net_paetec,1785,Richmond,Richmond, Richmond,8.8.8.8,3356
-net_paetec,1785,Rochester,Rochester, Rochester,8.8.8.8,3356
-net_paetec,1785,Saint Louis,Saint_Louis, Saint Louis,8.8.8.8,3356
-net_paetec,1785,Salt Lake City,Salt_Lake_City, Salt Lake City,8.8.8.8,3356
-net_paetec,1785,San Jose,San_Jose, San Jose,8.8.8.8,3356
-net_paetec,1785,Sterling,Sterling, Sterling,8.8.8.8,3356
-net_paetec,1785,Tampa01,Tampa01, Tampa01,8.8.8.8,3356
-net_paetec,1785,Tampa02,Tampa02, Tampa02,8.8.8.8,3356
-net_paetec,1785,Tukwila,Tukwila, Tukwila,8.8.8.8,3356
-net_paetec,1785,Tyson's Corner,Tyson's_Corner, Tyson's Corner,8.8.8.8,3356
-net_paetec,1785,Virginia Beach,Virginia_Beach, Virginia Beach,8.8.8.8,3356
-net_paetec,1785,Westborough,Westborough, Westborough,8.8.8.8,3356
-net_rlp-net,2857,none,?,?,8.8.8.8,3356
-net_HiNet,3462,none,?,?,8.8.8.8,3356
-net_as5577,54577,0,Luxembourg_Bissen1,Bissen Luxembourg,8.8.8.8,3356
-net_as5577,54577,1,Luxembourg_Bissen2,Bissen Luxembourg,8.8.8.8,3356
-au_uqschoolsnet,24436,gw1 (AS 24436),gw1,?,8.8.8.8,3356
-au_uqschoolsnet,7475,gw2 (AS 7475),gw2,?,8.8.8.8,3356
-au_uqschoolsnet,24436,gw3 (AS 24436),gw3,?,8.8.8.8,3356
-au_uqschoolsnet,7475,gw4 (AS 7475),gw4,?,8.8.8.8,3356
-au_uqschoolsnet,7475,peer1 (AS 7475),peer1,?,8.8.8.8,3356
-au_uqschoolsnet,7475,peer2 (AS 7475),peer2,?,8.8.8.8,3356
-net_pacific,7491,none,?,?,8.8.8.8,3356
-net_esc,7600,EscapeNet AS7600 View,EscapeNet_AS7600_View,?,8.8.8.8,3356
-net_esc,7600,Neighbor 14.102.140.143,Neighbor_14.102.140.143,?,8.8.8.8,3356
-net_esc,7600,VIC Border,VIC_Border,?,8.8.8.8,3356
-net_esc,7600,SA Border,SA_Border,?,8.8.8.8,3356
-vn_spt,7602,SPT AS7602, SPT AS7602,?,8.8.8.8,3356
-vn_spt,7602,VNIX, VNIX ,?,8.8.8.8,3356
-vn_spt,7602,Global Crossing - North USA, Global Crossing - North USA,?,8.8.8.8,3356
-vn_spt,7602,Global Crossing - EU, Global Crossing - EU,?,8.8.8.8,3356
-vn_spt,7602,TISCALI-TINET, TISCALI-TINET,?,8.8.8.8,3356
-vn_spt,7602,Opentransit (AS5511), Opentransit (AS5511),?,8.8.8.8,3356
-vn_spt,7602,ATT-CERFnet, ATT-CERFnet,?,8.8.8.8,3356
-vn_spt,7602,TWTelecom (AS4323), TWTelecom (AS4323),?,8.8.8.8,3356
-vn_spt,7602,Oregon Exchange, Oregon Exchange,?,8.8.8.8,3356
-vn_spt,7602,TELUS Ontario (AS852), TELUS Ontario (AS852),?,8.8.8.8,3356
-vn_spt,7602,Neotelecom (AS8218) - France, Neotelecom (AS8218) - France,?,8.8.8.8,3356
-vn_spt,7602,Swisscom (AS3303) - Switzerland, Swisscom (AS3303) - Switzerland,?,8.8.8.8,3356
-vn_spt,7602,Optus (AS7474) - Australia, Optus (AS7474) - Australia,?,8.8.8.8,3356
-vn_spt,7602,HGC, HGC (AS9304),?,8.8.8.8,3356
-vn_spt,7602,TATA, TATA (AS6453),?,8.8.8.8,3356
-vn_spt,7602,Deutsche Telekom, Deutsche Telekom (AS3320),?,8.8.8.8,3356
-vn_spt,7602,NTT, NTT (AS2941),?,8.8.8.8,3356
-vn_spt,7602,PCCW, PCCW (AS3491),?,8.8.8.8,3356
-vn_spt,7602,Singtel, Singtel Tel (AS9911),?,8.8.8.8,3356
-vn_spt,7602,Data Telecom IPv6, Data Telecom IPv6,?,8.8.8.8,3356
-vn_spt,7602,6TAP, 6TAP,?,8.8.8.8,3356
-vn_spt,7602,LavaNet, LavaNet,?,8.8.8.8,3356
-vn_spt,7602,r1-gw.ipv6.itk.pl, iTk,?,8.8.8.8,3356
-vn_spt,7602,EdisonTel IPv6, EdisonTel IPv6,?,8.8.8.8,3356
-com_zettagrid,7604,NSW,NSW,?,8.8.8.8,3356
-com_zettagrid,7604,VIC,VIC,?,8.8.8.8,3356
-com_zettagrid,7604,WA,WA,?,8.8.8.8,3356
-nu_tumori,4695,IP=4,AS4695,?,8.8.8.8,3356
-nu_tumori,7670,IP=6,AS7670,?,8.8.8.8,3356
-nu_tumori_amigo,4691,Down on 7/28/16,AS4691,?,8.8.8.8,3356
-nu_tumori_amigo,4691,Down on 7/28/16,AS4691,?,8.8.8.8,3356
-jp_as7684,7684,none,?,?,8.8.8.8,3356
-com_pipenetwors,9722,Brisbane Transit (AS24130),Brisbane_Transit,Brisbane Transit,8.8.8.8,3356
-com_pipenetwors,9722,Sydney Transit (AS24130),Sydney_Transit,Sydney Transit,8.8.8.8,3356
-com_pipenetwors,9722,Melbourne Transit (AS24130),Melbourne_Transit,Melbourne Transit,8.8.8.8,3356
-com_pipenetwors,9722,Adelaide Transit (AS24130),Adelaide_Transit,Adelaide Transit,8.8.8.8,3356
-com_pipenetwors,9722,Brisbane IX (AS9722),Brisbane_IX,Brisbane IX,8.8.8.8,3356
-com_pipenetwors,9722,Brisbane IXv6 (AS9722),Brisbane_IXv6,Brisbane IXv6,8.8.8.8,3356
-com_pipenetwors,9722,Sydney IX (AS18398),Sydney_IX,Sydney IX,8.8.8.8,3356
-com_pipenetwors,9722,Sydney IXv6 (AS18398),Sydney_IXv6,Sydney IXv6,8.8.8.8,3356
-com_pipenetwors,9722,Melbourne IX (AS23745),Melbourne_IX,Melbourne IX ,8.8.8.8,3356
-com_pipenetwors,9722,Melbourne IXv6 (AS23745),Melbourne_IXv6,Melbourne IXv6,8.8.8.8,3356
-com_pipenetwors,9722,Adelaide IX (AS17999),Adelaide_IX,Adelaide IX ,8.8.8.8,3356
-com_pipenetwors,9722,Adelaide IXv6 (AS17999),Adelaide_IXv6,Adelaide IXv6,8.8.8.8,3356
-com_pipenetwors,9722,Hobart IX (AS23741),Hobart_IX,Hobart IX ,8.8.8.8,3356
-com_pipenetwors,9722,Hobart IXv6 (AS23741),Hobart_IXv6,Hobart IXv6 ,8.8.8.8,3356
-com_pipenetwors,9722,Brisbane IX Backup (AS9722),Brisbane_IX_Backup,Brisbane IX Backup,8.8.8.8,3356
-com_pipenetwors,9722,Sydney IX Backup (AS18398),Sydney_IX_Backup,Sydney IX Backup,8.8.8.8,3356
-com_pipenetwors,9722,Melbourne IX Backup (AS23745),Melbourne_IX_Backup,Melbourne IX Backup,8.8.8.8,3356
-com_pipenetwors,9722,Adelaide IX Backup (AS17999),Adelaide_IX_Backup,Adelaide IX Backup,8.8.8.8,3356
-com_pipenetwors,9722,Hobart IX Backup (AS23741),Hobart_IX_Backup,Hobart IX Backup,8.8.8.8,3356
+net_snlink,702,none,???,???,8.8.8.8,3356,
+com_cognetco,174,vie01,AT_Vienna     , Vienna     AT,8.8.8.8,3356,
+com_cognetco,174,bru01,BE_Brussels   , Brussels   BE,8.8.8.8,3356,
+com_cognetco,174,sof02,BG_Sofia, Sofia BG,8.8.8.8,3356,
+com_cognetco,174,ymq01,CA_Montreal, Montreal CA,8.8.8.8,3356,
+com_cognetco,174,yyz01,CA_Toronto, Toronto CA,8.8.8.8,3356,
+com_cognetco,174,zrh01,CH_Zurich, Zurich CH,8.8.8.8,3356,Node down on 7/29
+com_cognetco,174,ber01,DE_Berlin, Berlin  DE,8.8.8.8,3356,
+com_cognetco,174,dus01,DE_Dusseldorf, Dusseldorf  DE,8.8.8.8,3356,
+com_cognetco,174,fra03,DE_Frankfurt, Frankfurt  DE,8.8.8.8,3356,
+com_cognetco,174,ham01,DE_Hamburg, Hamburg  DE,8.8.8.8,3356,
+com_cognetco,174,muc03,DE_Munich, Munich  DE,8.8.8.8,3356,
+com_cognetco,174,nue01,DE_Nuremberg, Nuremberg  DE,8.8.8.8,3356,
+com_cognetco,174,cph01,DK_Copenhagen, Copenhagen  DK,8.8.8.8,3356,
+com_cognetco,174,tll01,EE_Tallinn, Tallinn  EE,8.8.8.8,3356,
+com_cognetco,174,bcn01,ES_Barcelona, Barcelona  ES,8.8.8.8,3356,
+com_cognetco,174,mad05,ES_Madrid, Madrid  ES,8.8.8.8,3356,
+com_cognetco,174,vlc02,ES_Valencia, Valencia  ES,8.8.8.8,3356,
+com_cognetco,174,bod01,FR_Bordeaux, Bordeaux  FR,8.8.8.8,3356,
+com_cognetco,174,mrs01,FR_Marseille, Marseille  FR,8.8.8.8,3356,
+com_cognetco,174,par01,FR_Paris, Paris  FR,8.8.8.8,3356,
+com_cognetco,174,lon13,GB_London, London  GB,8.8.8.8,3356,
+com_cognetco,174,lpl01,GB_Southport, Southport  GB,8.8.8.8,3356,
+com_cognetco,174,ath01,GR_Athens, Athens  GR,8.8.8.8,3356,
+com_cognetco,174,bud01,HU_Budapest, Budapest  HU,8.8.8.8,3356,
+com_cognetco,174,dub01,IE_Dublin, Dublin  IE,8.8.8.8,3356,
+com_cognetco,174,mil01,IT_Milan, Milan  IT,8.8.8.8,3356,
+com_cognetco,174,rom01,IT_Rome, Rome  IT,8.8.8.8,3356,
+com_cognetco,174,tyo01,JP_Tokyo, Tokyo  JP,8.8.8.8,3356,
+com_cognetco,174,mex01,MX_Mexico City, Mexico City  MX,8.8.8.8,3356,
+com_cognetco,174,ams04,NL_Amsterdam, Amsterdam  NL,8.8.8.8,3356,
+com_cognetco,174,osl01,NO_Oslo, Oslo  NO,8.8.8.8,3356,
+com_cognetco,174,waw01,PL_Warsaw, Warsaw  PL,8.8.8.8,3356,
+com_cognetco,174,lis01,PT_Lisbon, Lisbon  PT,8.8.8.8,3356,
+com_cognetco,174,buh01,RO_Bucharest, Bucharest  RO,8.8.8.8,3356,
+com_cognetco,174,sto03,SE_Stockholm, Stockholm  SE,8.8.8.8,3356,
+com_cognetco,174,bts01,SK_Bratislava, Bratislava  SK,8.8.8.8,3356,
+com_cognetco,174,hrk01,UA_Kharkiv, Kharkiv  UA,8.8.8.8,3356,Node down on 7/29
+com_cognetco,174,atl01,US_Atlanta, Atlanta  US,8.8.8.8,3356,
+com_cognetco,174,bos01,US_Boston, Boston  US,8.8.8.8,3356,
+com_cognetco,174,ord01,US_Chicago, Chicago  US,8.8.8.8,3356,
+com_cognetco,174,dfw01,US_Dallas, Dallas  US,8.8.8.8,3356,
+com_cognetco,174,den01,US_Denver, Denver  US,8.8.8.8,3356,
+com_cognetco,174,iah01,US_Houston, Houston  US,8.8.8.8,3356,
+com_cognetco,174,jax01,US_Jacksonville, Jacksonville  US,8.8.8.8,3356,
+com_cognetco,174,mci01,US_Kansas City, Kansas City  US,8.8.8.8,3356,
+com_cognetco,174,lax01,US_Los Angeles, Los Angeles  US,8.8.8.8,3356,
+com_cognetco,174,mia01,US_Miami, Miami  US,8.8.8.8,3356,
+com_cognetco,174,msp01,US_Minneapolis, Minneapolis  US,8.8.8.8,3356,
+com_cognetco,174,jfk02,US_New York, New York  US,8.8.8.8,3356,
+com_cognetco,174,mco01,US_Orlando, Orlando  US,8.8.8.8,3356,
+com_cognetco,174,phl01,US_Philadelphia, Philadelphia  US,8.8.8.8,3356,
+com_cognetco,174,smf01,US_Sacramento, Sacramento  US,8.8.8.8,3356,
+com_cognetco,174,san01,US_San Diego, San Diego  US,8.8.8.8,3356,
+com_cognetco,174,sfo01,US_San Francisco, San Francisco  US,8.8.8.8,3356,
+com_cognetco,174,sjc01,US_San Jose, San Jose  US,8.8.8.8,3356,
+com_cognetco,174,sea01,US_Seattle, Seattle  US,8.8.8.8,3356,
+com_cognetco,174,tpa01,US_Tampa, Tampa  US,8.8.8.8,3356,
+com_cognetco,174,dca01,US_Washington_DC,Washington DC   US,8.8.8.8,3356,
+net_telia,1299,Hong Kong,Hong_Kong, Hong Kong,8.8.8.8,3356,
+net_telia,1299,Singapore,Singapore, Singapore,8.8.8.8,3356,
+net_telia,1299,Amsterdam,Amsterdam, Amsterdam,8.8.8.8,3356,
+net_telia,1299,Barcelona,Barcelona, Barcelona,8.8.8.8,3356,
+net_telia,1299,Berlin,Berlin, Berlin,8.8.8.8,3356,
+net_telia,1299,Bratislava,Bratislava, Bratislava,8.8.8.8,3356,
+net_telia,1299,Brussels,Brussels, Brussels,8.8.8.8,3356,
+net_telia,1299,Bucharest,Bucharest, Bucharest,8.8.8.8,3356,
+net_telia,1299,Budapest,Budapest, Budapest,8.8.8.8,3356,
+net_telia,1299,Cologne,Cologne, Cologne,8.8.8.8,3356,
+net_telia,1299,Copenhagen,Copenhagen, Copenhagen,8.8.8.8,3356,
+net_telia,1299,Dublin,Dublin, Dublin,8.8.8.8,3356,
+net_telia,1299,Dusseldorf,Dusseldorf, Dusseldorf,8.8.8.8,3356,
+net_telia,1299,Frankfurt,Frankfurt, Frankfurt,8.8.8.8,3356,
+net_telia,1299,Hamburg,Hamburg, Hamburg,8.8.8.8,3356,
+net_telia,1299,Helsinki,Helsinki, Helsinki,8.8.8.8,3356,
+net_telia,1299,Kiev,Kiev, Kiev,8.8.8.8,3356,
+net_telia,1299,London,London, London,8.8.8.8,3356,
+net_telia,1299,Madrid,Madrid, Madrid,8.8.8.8,3356,
+net_telia,1299,Marseille,Marseille, Marseille,8.8.8.8,3356,
+net_telia,1299,Milan,Milan, Milan,8.8.8.8,3356,
+net_telia,1299,Moscow,Moscow, Moscow,8.8.8.8,3356,
+net_telia,1299,Munich,Munich, Munich,8.8.8.8,3356,
+net_telia,1299,Oslo,Oslo, Oslo,8.8.8.8,3356,
+net_telia,1299,Paris,Paris, Paris,8.8.8.8,3356,
+net_telia,1299,Poznan,Poznan, Poznan,8.8.8.8,3356,
+net_telia,1299,Prague,Prague, Prague,8.8.8.8,3356,
+net_telia,1299,Riga,Riga, Riga,8.8.8.8,3356,
+net_telia,1299,Sofia,Sofia, Sofia,8.8.8.8,3356,
+net_telia,1299,Stockholm,Stockholm, Stockholm,8.8.8.8,3356,
+net_telia,1299,St.-Petersburg,St.-Petersburg, St.-Petersburg,8.8.8.8,3356,
+net_telia,1299,Tallinn,Tallinn, Tallinn,8.8.8.8,3356,
+net_telia,1299,Valencia,Valencia, Valencia,8.8.8.8,3356,
+net_telia,1299,Vienna,Vienna, Vienna,8.8.8.8,3356,
+net_telia,1299,Warsaw,Warsaw, Warsaw,8.8.8.8,3356,
+net_telia,1299,Zurich,Zurich, Zurich,8.8.8.8,3356,Node down on 7/29
+net_telia,1299,Ashburn,Ashburn, Ashburn,8.8.8.8,3356,
+net_telia,1299,Atlanta,Atlanta, Atlanta,8.8.8.8,3356,
+net_telia,1299,Austin,Austin, Austin,8.8.8.8,3356,
+net_telia,1299,Boston,Boston, Boston,8.8.8.8,3356,
+net_telia,1299,Buffalo,Buffalo, Buffalo,8.8.8.8,3356,
+net_telia,1299,Charlotte,Charlotte, Charlotte,8.8.8.8,3356,
+net_telia,1299,Chicago,Chicago, Chicago,8.8.8.8,3356,
+net_telia,1299,Cleveland,Cleveland, Cleveland,8.8.8.8,3356,
+net_telia,1299,Dallas,Dallas, Dallas,8.8.8.8,3356,
+net_telia,1299,Denver,Denver, Denver,8.8.8.8,3356,
+net_telia,1299,Detroit,Detroit, Detroit,8.8.8.8,3356,
+net_telia,1299,Houston,Houston, Houston,8.8.8.8,3356,Node down on 7/29
+net_telia,1299,Indianapolis,Indianapolis, Indianapolis,8.8.8.8,3356,
+net_telia,1299,Jacksonville,Jacksonville, Jacksonville,8.8.8.8,3356,
+net_telia,1299,Kansas City,Kansas_City, Kansas City,8.8.8.8,3356,
+net_telia,1299,Los Angeles,Los_Angeles, Los Angeles,8.8.8.8,3356,
+net_telia,1299,McAllen,McAllen, McAllen,8.8.8.8,3356,
+net_telia,1299,Miami,Miami, Miami,8.8.8.8,3356,
+net_telia,1299,Nashville,Nashville, Nashville,8.8.8.8,3356,
+net_telia,1299,New York (111 8th Ave),New_York_(111_8th_Ave), New York (111 8th Ave),8.8.8.8,3356,
+net_telia,1299,New York (165 Hasley),New_York_(165_Hasley), New York (165 Hasley),8.8.8.8,3356,
+net_telia,1299,Omaha,Omaha, Omaha,8.8.8.8,3356,
+net_telia,1299,Palo Alto,Palo_Alto, Palo Alto,8.8.8.8,3356,
+net_telia,1299,Philadelphia,Philadelphia, Philadelphia,8.8.8.8,3356,
+net_telia,1299,Phoenix,Phoenix, Phoenix,8.8.8.8,3356,
+net_telia,1299,Reston,Reston, Reston,8.8.8.8,3356,
+net_telia,1299,San Antonio,San_Antonio, San Antonio,8.8.8.8,3356,
+net_telia,1299,St. Louis,St._Louis, St. Louis,8.8.8.8,3356,
+net_telia,1299,Seattle,Seattle, Seattle,8.8.8.8,3356,
+net_telia,1299,Toronto,Toronto, Toronto,8.8.8.8,3356,
+net_telia,1299,Stockholm-3301,Stockholm-3301, Stockholm-3301,8.8.8.8,3356,
+net_telia,1299,Malmo,Malmo, Malmo,8.8.8.8,3356,
+net_telia,1299,GRX segment,GRX_segment, GRX segment,8.8.8.8,3356,
+net_paetec,1785,Albany,Albany, Albany,8.8.8.8,3356,
+net_paetec,1785,Alburquerque,Alburquerque, Alburquerque,8.8.8.8,3356,
+net_paetec,1785,Andover,Andover, Andover,8.8.8.8,3356,
+net_paetec,1785,Austin,Austin, Austin,8.8.8.8,3356,
+net_paetec,1785,Anaheim,Anaheim, Anaheim,8.8.8.8,3356,
+net_paetec,1785,Atlanta02,Atlanta02, Atlanta02,8.8.8.8,3356,
+net_paetec,1785,Birmingham,Birmingham, Birmingham,8.8.8.8,3356,
+net_paetec,1785,Boston,Boston, Boston,8.8.8.8,3356,
+net_paetec,1785,Brentwood,Brentwood, Brentwood,8.8.8.8,3356,
+net_paetec,1785,Champaign,Champaign, Champaign,8.8.8.8,3356,
+net_paetec,1785,Charlotte,Charlotte, Charlotte,8.8.8.8,3356,
+net_paetec,1785,Chattanooga,Chattanooga, Chattanooga,8.8.8.8,3356,
+net_paetec,1785,Chicago01,Chicago01, Chicago01,8.8.8.8,3356,
+net_paetec,1785,Chicago04,Chicago04, Chicago04,8.8.8.8,3356,
+net_paetec,1785,Cleveland,Cleveland, Cleveland,8.8.8.8,3356,
+net_paetec,1785,Colorado Springs,Colorado_Springs, Colorado Springs,8.8.8.8,3356,
+net_paetec,1785,Columbia,Columbia, Columbia,8.8.8.8,3356,
+net_paetec,1785,Dallas,Dallas, Dallas,8.8.8.8,3356,
+net_paetec,1785,Denver,Denver, Denver,8.8.8.8,3356,
+net_paetec,1785,Des Moines,Des_Moines, Des Moines,8.8.8.8,3356,
+net_paetec,1785,Farmington Hills,Farmington_Hills, Farmington Hills,8.8.8.8,3356,
+net_paetec,1785,Fishers,Fishers, Fishers,8.8.8.8,3356,
+net_paetec,1785,Ft. Myers,Ft._Myers, Ft. Myers,8.8.8.8,3356,
+net_paetec,1785,Greensboro,Greensboro, Greensboro,8.8.8.8,3356,
+net_paetec,1785,Houston,Houston, Houston,8.8.8.8,3356,
+net_paetec,1785,Jacksonville,Jacksonville, Jacksonville,8.8.8.8,3356,
+net_paetec,1785,Kansas City,Kansas_City, Kansas City,8.8.8.8,3356,
+net_paetec,1785,Knoxville,Knoxville, Knoxville,8.8.8.8,3356,
+net_paetec,1785,Las Vegas,Las_Vegas, Las Vegas,8.8.8.8,3356,
+net_paetec,1785,Los Angeles,Los_Angeles, Los Angeles,8.8.8.8,3356,
+net_paetec,1785,Memphis,Memphis, Memphis,8.8.8.8,3356,
+net_paetec,1785,Milwaukee,Milwaukee, Milwaukee,8.8.8.8,3356,
+net_paetec,1785,Minneapolis,Minneapolis, Minneapolis,8.8.8.8,3356,
+net_paetec,1785,Miami,Miami, Miami,8.8.8.8,3356,
+net_paetec,1785,Mobile,Mobile, Mobile,8.8.8.8,3356,
+net_paetec,1785,NYC02,NYC02, NYC02,8.8.8.8,3356,
+net_paetec,1785,NYC03,NYC03, NYC03,8.8.8.8,3356,
+net_paetec,1785,New Orleans,New_Orleans, New Orleans,8.8.8.8,3356,
+net_paetec,1785,Newark01,Newark01, Newark01,8.8.8.8,3356,
+net_paetec,1785,North Charleston,North_Charleston, North Charleston,8.8.8.8,3356,
+net_paetec,1785,Oakland,Oakland, Oakland,8.8.8.8,3356,
+net_paetec,1785,Orlando,Orlando, Orlando,8.8.8.8,3356,
+net_paetec,1785,Palm Beach Gardens,Palm_Beach_Gardens, Palm Beach Gardens,8.8.8.8,3356,
+net_paetec,1785,Philadelphia01,Philadelphia01, Philadelphia01,8.8.8.8,3356,
+net_paetec,1785,Philadelphia02,Philadelphia02, Philadelphia02,8.8.8.8,3356,
+net_paetec,1785,Phoenix,Phoenix, Phoenix,8.8.8.8,3356,
+net_paetec,1785,Pittsburgh,Pittsburgh, Pittsburgh,8.8.8.8,3356,
+net_paetec,1785,Portland,Portland, Portland,8.8.8.8,3356,
+net_paetec,1785,Raleigh,Raleigh, Raleigh,8.8.8.8,3356,
+net_paetec,1785,Richmond,Richmond, Richmond,8.8.8.8,3356,
+net_paetec,1785,Rochester,Rochester, Rochester,8.8.8.8,3356,
+net_paetec,1785,Saint Louis,Saint_Louis, Saint Louis,8.8.8.8,3356,
+net_paetec,1785,Salt Lake City,Salt_Lake_City, Salt Lake City,8.8.8.8,3356,
+net_paetec,1785,San Jose,San_Jose, San Jose,8.8.8.8,3356,
+net_paetec,1785,Sterling,Sterling, Sterling,8.8.8.8,3356,Node down on 7/29
+net_paetec,1785,Tampa01,Tampa01, Tampa01,8.8.8.8,3356,
+net_paetec,1785,Tampa02,Tampa02, Tampa02,8.8.8.8,3356,
+net_paetec,1785,Tukwila,Tukwila, Tukwila,8.8.8.8,3356,
+net_paetec,1785,Tyson's Corner,Tyson's_Corner, Tyson's Corner,8.8.8.8,3356,
+net_paetec,1785,Virginia Beach,Virginia_Beach, Virginia Beach,8.8.8.8,3356,
+net_paetec,1785,Westborough,Westborough, Westborough,8.8.8.8,3356,
+net_rlp-net,2857,none,?,?,8.8.8.8,3356,
+net_HiNet,3462,none,?,?,8.8.8.8,3356,
+net_as5577,54577,0,Luxembourg_Bissen1,Bissen Luxembourg,8.8.8.8,3356,
+net_as5577,54577,1,Luxembourg_Bissen2,Bissen Luxembourg,8.8.8.8,3356,
+au_uqschoolsnet,24436,gw1 (AS 24436),gw1,?,8.8.8.8,3356,
+au_uqschoolsnet,7475,gw2 (AS 7475),gw2,?,8.8.8.8,3356,
+au_uqschoolsnet,24436,gw3 (AS 24436),gw3,?,8.8.8.8,3356,
+au_uqschoolsnet,7475,gw4 (AS 7475),gw4,?,8.8.8.8,3356,
+au_uqschoolsnet,7475,peer1 (AS 7475),peer1,?,8.8.8.8,3356,
+au_uqschoolsnet,7475,peer2 (AS 7475),peer2,?,8.8.8.8,3356,
+net_pacific,7491,none,?,?,8.8.8.8,3356,
+net_esc,7600,EscapeNet AS7600 View,EscapeNet_AS7600_View,?,8.8.8.8,3356,
+net_esc,7600,Neighbor 14.102.140.143,Neighbor_14.102.140.143,?,8.8.8.8,3356,
+net_esc,7600,VIC Border,VIC_Border,?,8.8.8.8,3356,
+net_esc,7600,SA Border,SA_Border,?,8.8.8.8,3356,
+vn_spt,7602,SPT AS7602, SPT AS7602,?,8.8.8.8,3356,
+vn_spt,7602,VNIX, VNIX ,?,8.8.8.8,3356,
+vn_spt,7602,Global Crossing - North USA, Global Crossing - North USA,?,8.8.8.8,3356,
+vn_spt,7602,Global Crossing - EU, Global Crossing - EU,?,8.8.8.8,3356,
+vn_spt,7602,TISCALI-TINET, TISCALI-TINET,?,8.8.8.8,3356,
+vn_spt,7602,Opentransit (AS5511), Opentransit (AS5511),?,8.8.8.8,3356,
+vn_spt,7602,ATT-CERFnet, ATT-CERFnet,?,8.8.8.8,3356,
+vn_spt,7602,TWTelecom (AS4323), TWTelecom (AS4323),?,8.8.8.8,3356,
+vn_spt,7602,Oregon Exchange, Oregon Exchange,?,8.8.8.8,3356,
+vn_spt,7602,TELUS Ontario (AS852), TELUS Ontario (AS852),?,8.8.8.8,3356,
+vn_spt,7602,Neotelecom (AS8218) - France, Neotelecom (AS8218) - France,?,8.8.8.8,3356,
+vn_spt,7602,Swisscom (AS3303) - Switzerland, Swisscom (AS3303) - Switzerland,?,8.8.8.8,3356,
+vn_spt,7602,Optus (AS7474) - Australia, Optus (AS7474) - Australia,?,8.8.8.8,3356,
+vn_spt,7602,HGC, HGC (AS9304),?,8.8.8.8,3356,
+vn_spt,7602,TATA, TATA (AS6453),?,8.8.8.8,3356,
+vn_spt,7602,Deutsche Telekom, Deutsche Telekom (AS3320),?,8.8.8.8,3356,
+vn_spt,7602,NTT, NTT (AS2941),?,8.8.8.8,3356,
+vn_spt,7602,PCCW, PCCW (AS3491),?,8.8.8.8,3356,
+vn_spt,7602,Singtel, Singtel Tel (AS9911),?,8.8.8.8,3356,
+vn_spt,7602,Data Telecom IPv6, Data Telecom IPv6,?,8.8.8.8,3356,
+vn_spt,7602,6TAP, 6TAP,?,8.8.8.8,3356,
+vn_spt,7602,LavaNet, LavaNet,?,8.8.8.8,3356,
+vn_spt,7602,r1-gw.ipv6.itk.pl, iTk,?,8.8.8.8,3356,
+vn_spt,7602,EdisonTel IPv6, EdisonTel IPv6,?,8.8.8.8,3356,
+com_zettagrid,7604,NSW,NSW,?,8.8.8.8,3356,
+com_zettagrid,7604,VIC,VIC,?,8.8.8.8,3356,
+com_zettagrid,7604,WA,WA,?,8.8.8.8,3356,
+nu_tumori,4695,IP=4,AS4695,?,8.8.8.8,3356,
+nu_tumori,7670,IP=6,AS7670,?,8.8.8.8,3356,
+nu_tumori_amigo,4691,IP=4,AS4691,?,8.8.8.8,3356,Node down on 7/29
+nu_tumori_amigo,4691,IP=6,AS4691,?,8.8.8.8,3356,Node down on 7/29
+jp_as7684,7684,none,?,?,8.8.8.8,3356,
+com_pipenetwors,9722,Brisbane Transit (AS24130),Brisbane_Transit,Brisbane Transit,8.8.8.8,3356,
+com_pipenetwors,9722,Sydney Transit (AS24130),Sydney_Transit,Sydney Transit,8.8.8.8,3356,
+com_pipenetwors,9722,Melbourne Transit (AS24130),Melbourne_Transit,Melbourne Transit,8.8.8.8,3356,
+com_pipenetwors,9722,Adelaide Transit (AS24130),Adelaide_Transit,Adelaide Transit,8.8.8.8,3356,
+com_pipenetwors,9722,Brisbane IX (AS9722),Brisbane_IX,Brisbane IX,8.8.8.8,3356,
+com_pipenetwors,9722,Brisbane IXv6 (AS9722),Brisbane_IXv6,Brisbane IXv6,8.8.8.8,3356,
+com_pipenetwors,9722,Sydney IX (AS18398),Sydney_IX,Sydney IX,8.8.8.8,3356,
+com_pipenetwors,9722,Sydney IXv6 (AS18398),Sydney_IXv6,Sydney IXv6,8.8.8.8,3356,
+com_pipenetwors,9722,Melbourne IX (AS23745),Melbourne_IX,Melbourne IX ,8.8.8.8,3356,
+com_pipenetwors,9722,Melbourne IXv6 (AS23745),Melbourne_IXv6,Melbourne IXv6,8.8.8.8,3356,
+com_pipenetwors,9722,Adelaide IX (AS17999),Adelaide_IX,Adelaide IX ,8.8.8.8,3356,
+com_pipenetwors,9722,Adelaide IXv6 (AS17999),Adelaide_IXv6,Adelaide IXv6,8.8.8.8,3356,
+com_pipenetwors,9722,Hobart IX (AS23741),Hobart_IX,Hobart IX ,8.8.8.8,3356,
+com_pipenetwors,9722,Hobart IXv6 (AS23741),Hobart_IXv6,Hobart IXv6 ,8.8.8.8,3356,
+com_pipenetwors,9722,Brisbane IX Backup (AS9722),Brisbane_IX_Backup,Brisbane IX Backup,8.8.8.8,3356,
+com_pipenetwors,9722,Sydney IX Backup (AS18398),Sydney_IX_Backup,Sydney IX Backup,8.8.8.8,3356,
+com_pipenetwors,9722,Melbourne IX Backup (AS23745),Melbourne_IX_Backup,Melbourne IX Backup,8.8.8.8,3356,
+com_pipenetwors,9722,Adelaide IX Backup (AS17999),Adelaide_IX_Backup,Adelaide IX Backup,8.8.8.8,3356,
+com_pipenetwors,9722,Hobart IX Backup (AS23741),Hobart_IX_Backup,Hobart IX Backup,8.8.8.8,3356,
